@@ -3,7 +3,10 @@
 
 ### Installation
 
-* UnZIP archive
+* Clone the repo
+   ```sh
+   git clone https://github.com/EmelyanovKonstantin/Sensor-measurements.git
+   ```
    
 ### Test
 * Start Test
